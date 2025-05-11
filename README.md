@@ -25,8 +25,8 @@ Technical Skills-
   3.Data Tools- MySqlA
 
 Project-
- 1.
- 2.
+   1.
+   2.
 
 
 Certificate:
