@@ -14,7 +14,7 @@ Technical Skills-
 
  1.Programming Language-Python,R
  2.Other Tools-Vscode,github
- 3.Data Tools- MySql
+ 3.Data Tools- MySqlA
 
 Project-
  1.
