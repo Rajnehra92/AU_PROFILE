@@ -4,7 +4,7 @@ Personal Information:
 
   1.Name-Mukesh kumar nehra
  
-  2.Education-BCA(2021),MCA(2025)
+  2.Education-BCA,MCA
  
   3.University-University of Rajasthan,jaipur
  
